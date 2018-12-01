@@ -1,3 +1,5 @@
 __MACOSX/*
 dogImages/*
 lfw/*
+__pycache__/
+*.pt
